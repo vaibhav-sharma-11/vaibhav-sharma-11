@@ -1,6 +1,6 @@
+<img align = "right" alt = 'Coding' width = "1000" src="https://1.bp.blogspot.com/-2cs_zSJDcgQ/XvtIexBpY8I/AAAAAAAAV8s/ZEEJ9grPFk4EzGVMRSIsngr9w2EIgTK9QCK4BGAsYHg/s900/Business.gif">
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 <h3 align="center">Data Analyst</h3>
-<img align = "right" alt = 'Coding' width = "1000" src="https://1.bp.blogspot.com/-2cs_zSJDcgQ/XvtIexBpY8I/AAAAAAAAV8s/ZEEJ9grPFk4EzGVMRSIsngr9w2EIgTK9QCK4BGAsYHg/s900/Business.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-sharma-11&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-sharma-11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
